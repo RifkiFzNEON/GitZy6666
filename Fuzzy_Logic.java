@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package fzz;
+package fuzzy_logic;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -14,7 +14,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-public class Fzz {
+public class Fuzzy_Logic {
 
     public static double fungsi1 (double z, double x, double y){
         return ((y-z)/(y-x));
