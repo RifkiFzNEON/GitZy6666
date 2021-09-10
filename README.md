@@ -5,9 +5,9 @@ I Got This Profile Code From Here: <br />
 
 - 🔭 I just uploaded my previous project to github!
 - 🌱 I'm currently learning python 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I really like working in a team 🤣🤣
 - 🥅 2021 Goals: Contribute more to Data Analyst and Data Scientist projects
-- ⚡ Fun fact: I love play games and watching movie
+- ⚡ Fun fact: I love play games and watching movie 🤣
 
 ### Connect with me:
 
