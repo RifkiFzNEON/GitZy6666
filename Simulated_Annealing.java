@@ -1,6 +1,6 @@
-package cobasa;
+package simulated_annealing;
 
-public class Cobasa {
+public class Simulated_Annealing {
     public static double fungsi (double x, double y){
     
         int expakar = (int) Math.exp(Math.abs(1-Math.sqrt((Math.pow(x,2)) + (Math.pow(y,2)))/3.14));
